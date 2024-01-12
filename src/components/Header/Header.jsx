@@ -7,7 +7,7 @@ export default function Header() {
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="src/assets/logo-color.svg"
+                            src="https://res.cloudinary.com/dmrz8k1os/image/upload/v1705041503/logo-color_incdpl.svg"
                             className="mr-3 h-12"
                             alt="Logo"
                         />
